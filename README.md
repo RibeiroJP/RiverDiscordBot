@@ -1,2 +1,2 @@
 # RiverDiscordBot
-My Discord bot made with JS
+Meu bot do Discord feito com JavaScript
